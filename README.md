@@ -1,5 +1,6 @@
 # Synthacogniverse
-Synthacogniverse
+Synthacogniverse 
+this is an Idea I made which I can't product that why I posted it here in the hope someone with it will find it.
 
 Synthacogniverse AI Ecosystem: A Comprehensive Research-Based Development Plan
 Vision and Overview
